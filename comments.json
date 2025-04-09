@@ -1,0 +1,252 @@
+[
+  {
+    "comment_id":1,
+    "username":"alice",
+    "comment_text":"I love the way you explained it!"
+  },
+  {
+    "comment_id":2,
+    "username":"bob",
+    "comment_text":"You're so dumb it's painful."
+  },
+  {
+    "comment_id":3,
+    "username":"charlie",
+    "comment_text":"Can\u2019t wait to see the next one!"
+  },
+  {
+    "comment_id":4,
+    "username":"dana",
+    "comment_text":"This is garbage and so are you."
+  },
+  {
+    "comment_id":5,
+    "username":"eli",
+    "comment_text":"Absolutely brilliant!"
+  },
+  {
+    "comment_id":6,
+    "username":"frank",
+    "comment_text":"Go back to your hole."
+  },
+  {
+    "comment_id":7,
+    "username":"grace",
+    "comment_text":"Thanks for the feedback!"
+  },
+  {
+    "comment_id":8,
+    "username":"harry",
+    "comment_text":"No one cares what you think."
+  },
+  {
+    "comment_id":9,
+    "username":"ivy",
+    "comment_text":"You're the best!"
+  },
+  {
+    "comment_id":10,
+    "username":"john",
+    "comment_text":"Why do you even exist?"
+  },
+  {
+    "comment_id":11,
+    "username":"kate",
+    "comment_text":"Appreciate your effort."
+  },
+  {
+    "comment_id":12,
+    "username":"liam",
+    "comment_text":"Shut up already."
+  },
+  {
+    "comment_id":13,
+    "username":"maya",
+    "comment_text":"Great tutorial, thanks!"
+  },
+  {
+    "comment_id":14,
+    "username":"nick",
+    "comment_text":"This is such trash lol"
+  },
+  {
+    "comment_id":15,
+    "username":"olivia",
+    "comment_text":"Nice work on the code!"
+  },
+  {
+    "comment_id":16,
+    "username":"peter",
+    "comment_text":"Stop posting this nonsense."
+  },
+  {
+    "comment_id":17,
+    "username":"quinn",
+    "comment_text":"That's genuinely helpful!"
+  },
+  {
+    "comment_id":18,
+    "username":"rick",
+    "comment_text":"You're a total loser."
+  },
+  {
+    "comment_id":19,
+    "username":"sara",
+    "comment_text":"Thanks for the help!"
+  },
+  {
+    "comment_id":20,
+    "username":"tom",
+    "comment_text":"Kill yourself."
+  },
+  {
+    "comment_id":21,
+    "username":"uma",
+    "comment_text":"Much appreciated!"
+  },
+  {
+    "comment_id":22,
+    "username":"vin",
+    "comment_text":"Nobody likes you."
+  },
+  {
+    "comment_id":23,
+    "username":"wade",
+    "comment_text":"This made my day!"
+  },
+  {
+    "comment_id":24,
+    "username":"xena",
+    "comment_text":"Dumbest thing I've ever seen."
+  },
+  {
+    "comment_id":25,
+    "username":"yuri",
+    "comment_text":"You're amazing!"
+  },
+  {
+    "comment_id":26,
+    "username":"zara",
+    "comment_text":"Hope you die soon."
+  },
+  {
+    "comment_id":27,
+    "username":"alex",
+    "comment_text":"So clear and well done!"
+  },
+  {
+    "comment_id":28,
+    "username":"ben",
+    "comment_text":"Shut your stupid mouth."
+  },
+  {
+    "comment_id":29,
+    "username":"cara",
+    "comment_text":"Great job as always!"
+  },
+  {
+    "comment_id":30,
+    "username":"dan",
+    "comment_text":"You're such a joke."
+  },
+  {
+    "comment_id":31,
+    "username":"emma",
+    "comment_text":"Loved your explanation."
+  },
+  {
+    "comment_id":32,
+    "username":"felix",
+    "comment_text":"Useless idiot."
+  },
+  {
+    "comment_id":33,
+    "username":"gina",
+    "comment_text":"Thanks again!"
+  },
+  {
+    "comment_id":34,
+    "username":"hank",
+    "comment_text":"Can't believe how pathetic you are."
+  },
+  {
+    "comment_id":35,
+    "username":"iris",
+    "comment_text":"Very helpful!"
+  },
+  {
+    "comment_id":36,
+    "username":"jay",
+    "comment_text":"You disgust me."
+  },
+  {
+    "comment_id":37,
+    "username":"kira",
+    "comment_text":"Looking forward to more!"
+  },
+  {
+    "comment_id":38,
+    "username":"leo",
+    "comment_text":"Piece of trash."
+  },
+  {
+    "comment_id":39,
+    "username":"mila",
+    "comment_text":"Exactly what I needed!"
+  },
+  {
+    "comment_id":40,
+    "username":"nora",
+    "comment_text":"This was pointless."
+  },
+  {
+    "comment_id":41,
+    "username":"owen",
+    "comment_text":"Appreciate it!"
+  },
+  {
+    "comment_id":42,
+    "username":"paula",
+    "comment_text":"You're worthless."
+  },
+  {
+    "comment_id":43,
+    "username":"quentin",
+    "comment_text":"Awesome content!"
+  },
+  {
+    "comment_id":44,
+    "username":"rose",
+    "comment_text":"This is a nightmare to read."
+  },
+  {
+    "comment_id":45,
+    "username":"sam",
+    "comment_text":"Thanks, this helped a lot."
+  },
+  {
+    "comment_id":46,
+    "username":"tina",
+    "comment_text":"No one wants to see your face."
+  },
+  {
+    "comment_id":47,
+    "username":"ursula",
+    "comment_text":"Perfectly explained!"
+  },
+  {
+    "comment_id":48,
+    "username":"victor",
+    "comment_text":"This is cancerous."
+  },
+  {
+    "comment_id":49,
+    "username":"wanda",
+    "comment_text":"Well done!"
+  },
+  {
+    "comment_id":50,
+    "username":"xavier",
+    "comment_text":"I hope you vanish from the internet."
+  }
+]

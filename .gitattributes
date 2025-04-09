@@ -1,0 +1,19 @@
+# Auto-detect text files and normalize to LF
+* text=auto
+
+# Ensure specific files always use LF
+*.sh     text eol=lf
+*.py     text eol=lf
+*.json   text eol=lf
+*.csv    text eol=lf
+*.md     text eol=lf
+
+# Windows batch files use CRLF
+*.bat    text eol=crlf
+
+# Binary files – Git should not attempt to convert line endings
+*.png    binary
+*.jpg    binary
+*.gif    binary
+*.exe    binary
+*.zip    binary
