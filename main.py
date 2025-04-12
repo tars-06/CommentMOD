@@ -120,7 +120,10 @@ for mod in results:
     comments_map[cid].update(mod)
 
 # exporting the moderated csv with marked comments
-fieldnames = list(comments[0].keys()) + ['is_offensive', 'offense_type', 'explanation']
+fieldnames = list(comments[0].keys())
+for field in ['is_offensive', 'offense_type', 'explanation']:
+    if field not in fieldnames:
+        fieldnames.append(field)
 with open(OUTPUT_FILE, 'w', newline='', encoding='utf-8') as f:
     writer = csv.DictWriter(f, fieldnames=fieldnames)
     writer.writeheader()
